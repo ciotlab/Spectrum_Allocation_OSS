@@ -1,0 +1,7 @@
+.lightning_studio/
+wandb/
+.netrc
+__pycache__
+simulator/network/
+.idea
+.vscode
